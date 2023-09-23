@@ -1,0 +1,16 @@
+﻿@model NwindMVC.Models.CustomerIdsViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<div>
+    <h4>CustomerIds</h4>
+    <hr />
+    <form asp-controller="Customer" method="post" asp-action="Details">
+        <select asp-for="Id" asp-items="Model.CustomerIdSelectedList">
+        </select>
+        <button type="submit">Details</button>
+    </form>
+</div>

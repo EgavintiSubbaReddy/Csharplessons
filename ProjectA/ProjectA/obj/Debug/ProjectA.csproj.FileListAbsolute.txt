@@ -1,0 +1,7 @@
+C:\Users\egavinti.s\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\egavinti.s\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\egavinti.s\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\egavinti.s\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.AssemblyReference.cache
+C:\Users\egavinti.s\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\egavinti.s\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\egavinti.s\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.pdb

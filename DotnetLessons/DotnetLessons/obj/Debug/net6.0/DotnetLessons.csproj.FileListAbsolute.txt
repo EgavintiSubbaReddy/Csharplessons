@@ -1,0 +1,14 @@
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\bin\Debug\net6.0\DotnetLessons.exe
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\bin\Debug\net6.0\DotnetLessons.deps.json
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\bin\Debug\net6.0\DotnetLessons.runtimeconfig.json
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\bin\Debug\net6.0\DotnetLessons.dll
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\bin\Debug\net6.0\DotnetLessons.pdb
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\obj\Debug\net6.0\DotnetLessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\obj\Debug\net6.0\DotnetLessons.AssemblyInfoInputs.cache
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\obj\Debug\net6.0\DotnetLessons.AssemblyInfo.cs
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\obj\Debug\net6.0\DotnetLessons.csproj.CoreCompileInputs.cache
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\obj\Debug\net6.0\DotnetLessons.dll
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\obj\Debug\net6.0\refint\DotnetLessons.dll
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\obj\Debug\net6.0\DotnetLessons.pdb
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\obj\Debug\net6.0\DotnetLessons.genruntimeconfig.cache
+C:\Users\egavinti.s\source\repos\DotnetLessons\DotnetLessons\obj\Debug\net6.0\ref\DotnetLessons.dll

@@ -1,0 +1,4 @@
+C:\Users\egavinti.s\source\repos\LibraryA\ClientAppConsole\obj\Debug\net6.0\ClientAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egavinti.s\source\repos\LibraryA\ClientAppConsole\obj\Debug\net6.0\ClientAppConsole.AssemblyInfoInputs.cache
+C:\Users\egavinti.s\source\repos\LibraryA\ClientAppConsole\obj\Debug\net6.0\ClientAppConsole.AssemblyInfo.cs
+C:\Users\egavinti.s\source\repos\LibraryA\ClientAppConsole\obj\Debug\net6.0\ClientAppConsole.csproj.CoreCompileInputs.cache
